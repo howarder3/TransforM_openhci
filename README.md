@@ -1,3 +1,3 @@
 # openhci
 
-![Alt text](/path/to/img.jpg)
+![Alt text](https://imgur.com/fgnQYq8)
